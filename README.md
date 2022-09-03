@@ -1,2 +1,2 @@
-# Clinic-Sistem
- Repositório destinado ao projeto do Trabalho de Conclusão de Curso de Sistemas de Informação - UFOP.
+# PHP Laravel Breeze
+ Repositório destinado ao projeto de Login utilizando Laravel Breeze.
